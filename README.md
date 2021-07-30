@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on Generation Brazil
 
-- 🌱 Focused on teaching and learning more about **Java**, **Spring Boot**, **Soft Skills**
+- 🌱 Focused on teaching and learning more about **Java**, **Spring Boot**, **Angular** and **Soft Skills**.
 
-- 💙 In Love with **Front-End**, **Javascript** and **ReactJS**
+- 💙 In Love with **Front-End**, **Javascript/Typescript** and **ReactJS**
 
-- 💬 Ask me about: Animes, Docto Who, Tech, HP Lovecraft and Science Fiction Book
+- 💬 Ask me about: Animes, Docto Who, HP Lovecraft, Sherlock Holmes and Science Fiction Book.
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-silva99/)](https://www.linkedin.com/in/yuri-silva99/)
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/yuri-silva99/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 - ⚡ Fun fact: Eternal Student and Explorer of the World of Technology 🗺️
 
@@ -24,19 +24,23 @@
 
 <br>
 
+<div align="center">
 Thank you for reading this far and don't forget to add me on LinkedIn. See you later.
+<br><br>
+ <div>
+  <a href="https://github.com/Yuri-stack">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuri-stack&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-stack&layout=compact&langs_count=7&theme=gotham"/>
+</div>
+</div>
 
-<!--
-**Yuri-stack/Yuri-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
