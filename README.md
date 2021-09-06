@@ -1,46 +1,43 @@
-<h1 align="center">Greetings  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Yuri Oliveira</h1>
+<img src="https://raw.githubusercontent.com/UlissesJunior/UlissesJunior/main/Header_CodeByPixel.png">
+
+<h2 align="center">Greetings everyone! 
+<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+</h2>
 
 <h3 align="center">Programming teacher focused on learning and sharing knowledge for new Generations</h3>
 
-<br>
-
-- 🌎  `<>Hello World!</>`
-
-- 😎 It´s a pleasure to have you here!
-
-- 🔭 I’m currently working on Generation Brazil
-
-- 🌱 Focused on teaching and learning more about **Java**, **Spring Boot**, **Angular** and **Soft Skills**.
-
-- 💙 In Love with **Front-End**, **Javascript/Typescript** and **ReactJS**
-
-- 💬 Ask me about: Animes, Docto Who, HP Lovecraft, Sherlock Holmes and Science Fiction Book.
-
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/yuri-silva99/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+- 🌎 `<>Hello World!</>`😎
+- 🔭 I’m currently working on Generation Brazil 🌱
+- 💬 Ask me about: Animes, Docto Who, HP Lovecraft, Sherlock Holmes, Science Fiction Book 📖
 - ⚡ Fun fact: Eternal Student and Explorer of the World of Technology 🗺️
 
-- 📖 "_In the Universe, there is a limit to almost everything... except for Knowledge_"
+<div align="center">
+<h3>My Technologies</h3>
+<img src="https://img.shields.io/badge/-html-rgba(43, 43, 43, 1)?style=for-the-badge&logo=HTML5&logoColor=rgba(0, 140, 0, 1)" target="_blank">
+<img src="https://img.shields.io/badge/-css-rgba(43, 43, 43, 1)?style=for-the-badge&logo=CSS3&logoColor=rgba(0, 140, 0, 1)" target="_blank">
+<img src="https://img.shields.io/badge/-sass-rgba(43, 43, 43, 1)?style=for-the-badge&logo=SASS&logoColor=rgba(0, 140, 0, 1)" target="_blank">
+<img src="https://img.shields.io/badge/-Javascript-rgba(43, 43, 43, 1)?style=for-the-badge&logo=javascript&logoColor=rgba(0, 140, 0, 1)" target="_blank">
+<img src="https://img.shields.io/badge/-nodejs-rgba(43, 43, 43, 1)?style=for-the-badge&logo=node.js&logoColor=rgba(0, 140, 0, 1)" target="_blank">
+<img src="https://img.shields.io/badge/-Typescript-rgba(43, 43, 43, 1)?style=for-the-badge&logo=typescript&logoColor=rgba(0, 140, 0, 1)" target="_blank">
+<img src="https://img.shields.io/badge/-react-rgba(43, 43, 43, 1)?style=for-the-badge&logo=React&logoColor=rgba(0, 140, 0, 1)" target="_blank">
+</div>
+
+<div align="center">
+<h3>Teaching and Learning more</h3>
+<img src="https://img.shields.io/badge/-java-rgba(43, 43, 43, 1)?style=for-the-badge&logo=Java&logoColor=rgba(0, 140, 0, 1)" target="_blank">
+<img src="https://img.shields.io/badge/-Spring Boot-rgba(43, 43, 43, 1)?style=for-the-badge&logo=SpringBoot&logoColor=rgba(0, 140, 0, 1)" target="_blank">
+<img src="https://img.shields.io/badge/-Angular-rgba(43, 43, 43, 1)?style=for-the-badge&logo=Angular&logoColor=rgba(0, 140, 0, 1)" target="_blank">
+<img src="https://img.shields.io/badge/-Soft Skills-rgba(43, 43, 43, 1)?style=for-the-badge&logo=Soft&logoColor=rgba(0, 140, 0, 1)" target="_blank">
+</div>
 
 <br>
 
-<div align="center">
-Thank you for reading this far and don't forget to add me on LinkedIn. See you later.
+<div  align="center">
+Thank you for reading this far and don't forget to add me on  <a href="https://www.linkedin.com/in/yuri-silva99/" target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-rgba(43, 43, 43, 1)?style=for-the-badge&logo=linkedin&logoColor=rgba(0, 140, 0, 1)"  target="_blank"></a>. See you later.
 <br><br>
- <div>
-  <a href="https://github.com/Yuri-stack">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuri-stack&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-stack&layout=compact&langs_count=7&theme=gotham"/>
+<div>
+<a href="https://github.com/Yuri-stack">
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=Yuri-stack&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-stack&layout=compact&langs_count=7&theme=gotham"/>
 </div>
-</div>
-
-<div align="center" style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
