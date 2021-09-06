@@ -11,6 +11,8 @@
 - 💬 Ask me about: Animes, Docto Who, HP Lovecraft, Sherlock Holmes, Science Fiction Book 📖
 - ⚡ Fun fact: Eternal Student and Explorer of the World of Technology 🗺️
 
+<br>
+
 <div align="center">
 <h3>My Technologies</h3>
 <img src="https://img.shields.io/badge/-html-rgba(43, 43, 43, 1)?style=for-the-badge&logo=HTML5&logoColor=rgba(0, 140, 0, 1)" target="_blank">
@@ -22,6 +24,8 @@
 <img src="https://img.shields.io/badge/-react-rgba(43, 43, 43, 1)?style=for-the-badge&logo=React&logoColor=rgba(0, 140, 0, 1)" target="_blank">
 </div>
 
+<br>
+
 <div align="center">
 <h3>Teaching and Learning more</h3>
 <img src="https://img.shields.io/badge/-java-rgba(43, 43, 43, 1)?style=for-the-badge&logo=Java&logoColor=rgba(0, 140, 0, 1)" target="_blank">
@@ -30,7 +34,7 @@
 <img src="https://img.shields.io/badge/-Soft Skills-rgba(43, 43, 43, 1)?style=for-the-badge&logo=Soft&logoColor=rgba(0, 140, 0, 1)" target="_blank">
 </div>
 
-<br>
+<br><br>
 
 <div  align="center">
 Thank you for reading this far and don't forget to add me on  <a href="https://www.linkedin.com/in/yuri-silva99/" target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-rgba(43, 43, 43, 1)?style=for-the-badge&logo=linkedin&logoColor=rgba(0, 140, 0, 1)"  target="_blank"></a>. See you later.
