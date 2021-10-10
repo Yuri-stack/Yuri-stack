@@ -1,4 +1,4 @@
-<img src="./assets/Banner_Github.png">
+<img src="./assets/Banner_Github CyberGreen.png">
 
 <h2 align="center">Greetings everyone! 
 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
@@ -16,21 +16,21 @@
 
 <div align="center">
 <h3>My Technologies</h3>
-<img src="https://img.shields.io/badge/-html-rgba(43, 43, 43, 1)?style=for-the-badge&logo=HTML5&logoColor=rgba(0, 140, 0, 1)" target="_blank">
-<img src="https://img.shields.io/badge/-css-rgba(43, 43, 43, 1)?style=for-the-badge&logo=CSS3&logoColor=rgba(0, 140, 0, 1)" target="_blank">
-<img src="https://img.shields.io/badge/-sass-rgba(43, 43, 43, 1)?style=for-the-badge&logo=SASS&logoColor=rgba(0, 140, 0, 1)" target="_blank">
-<img src="https://img.shields.io/badge/-Javascript-rgba(43, 43, 43, 1)?style=for-the-badge&logo=javascript&logoColor=rgba(0, 140, 0, 1)" target="_blank">
-<img src="https://img.shields.io/badge/-nodejs-rgba(43, 43, 43, 1)?style=for-the-badge&logo=node.js&logoColor=rgba(0, 140, 0, 1)" target="_blank">
-<img src="https://img.shields.io/badge/-Typescript-rgba(43, 43, 43, 1)?style=for-the-badge&logo=typescript&logoColor=rgba(0, 140, 0, 1)" target="_blank">
-<img src="https://img.shields.io/badge/-react-rgba(43, 43, 43, 1)?style=for-the-badge&logo=React&logoColor=rgba(0, 140, 0, 1)" target="_blank">
+<img src="https://img.shields.io/badge/-html-rgba(0, 33, 29, 1)?style=for-the-badge&logo=HTML5&logoColor=rgba(0, 125, 93, 1)" target="_blank">
+<img src="https://img.shields.io/badge/-css-rgba(0, 33, 29, 1)?style=for-the-badge&logo=CSS3&logoColor=rgba(0, 125, 93, 1)" target="_blank">
+<img src="https://img.shields.io/badge/-sass-rgba(0, 33, 29, 1)?style=for-the-badge&logo=SASS&logoColor=rgba(0, 125, 93, 1)" target="_blank">
+<img src="https://img.shields.io/badge/-Javascript-rgba(0, 33, 29, 1)?style=for-the-badge&logo=javascript&logoColor=rgba(0, 125, 93, 1)" target="_blank">
+<img src="https://img.shields.io/badge/-nodejs-rgba(0, 33, 29, 1)?style=for-the-badge&logo=node.js&logoColor=rgba(0, 125, 93, 1)" target="_blank">
+<img src="https://img.shields.io/badge/-Typescript-rgba(0, 33, 29, 1)?style=for-the-badge&logo=typescript&logoColor=rgba(0, 125, 93, 1)" target="_blank">
+<img src="https://img.shields.io/badge/-react-rgba(0, 33, 29, 1)?style=for-the-badge&logo=React&logoColor=rgba(0, 125, 93, 1)" target="_blank">
 </div>
 
 <div align="center">
 <h3>Teaching and Learning more</h3>
-<img src="https://img.shields.io/badge/-java-rgba(43, 43, 43, 1)?style=for-the-badge&logo=Java&logoColor=rgba(0, 140, 0, 1)" target="_blank">
-<img src="https://img.shields.io/badge/-Spring Boot-rgba(43, 43, 43, 1)?style=for-the-badge&logo=SpringBoot&logoColor=rgba(0, 140, 0, 1)" target="_blank">
-<img src="https://img.shields.io/badge/-Angular-rgba(43, 43, 43, 1)?style=for-the-badge&logo=Angular&logoColor=rgba(0, 140, 0, 1)" target="_blank">
-<img src="https://img.shields.io/badge/-Soft Skills-rgba(43, 43, 43, 1)?style=for-the-badge&logo=Soft&logoColor=rgba(0, 140, 0, 1)" target="_blank">
+<img src="https://img.shields.io/badge/-java-rgba(0, 33, 29, 1)?style=for-the-badge&logo=Java&logoColor=rgba(0, 125, 93, 1)" target="_blank">
+<img src="https://img.shields.io/badge/-Spring Boot-rgba(0, 33, 29, 1)?style=for-the-badge&logo=SpringBoot&logoColor=rgba(0, 125, 93, 1)" target="_blank">
+<img src="https://img.shields.io/badge/-Angular-rgba(0, 33, 29, 1)?style=for-the-badge&logo=Angular&logoColor=rgba(0, 125, 93, 1)" target="_blank">
+<img src="https://img.shields.io/badge/-Soft Skills-rgba(0, 33, 29, 1)?style=for-the-badge&logo=Soft&logoColor=rgba(0, 125, 93, 1)" target="_blank">
 </div>
 
 <br>
@@ -45,8 +45,8 @@
 
 <b>Find Me</b>
 <br>
-<a href="https://www.linkedin.com/in/yuri-silva99/" target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-rgba(43, 43, 43, 1)?style=for-the-badge&logo=linkedin&logoColor=rgba(0, 140, 0, 1)"  target="_blank"></a>
-<a href="https://www.instagram.com/yuri_lumen/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-rgba(43, 43, 43, 1)?style=for-the-badge&logo=instagram&logoColor=rgba(0, 140, 0, 1)"  target="_blank"></a>
+<a href="https://www.linkedin.com/in/yuri-silva99/" target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-rgba(0, 33, 29, 1)?style=for-the-badge&logo=linkedin&logoColor=rgba(0, 125, 93, 1)"  target="_blank"></a>
+<a href="https://www.instagram.com/yuri_lumen/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-rgba(0, 33, 29, 1)?style=for-the-badge&logo=instagram&logoColor=rgba(0, 125, 93, 1)"  target="_blank"></a>
 
 <div align="center">
   <b></b>Thank you for reading this far and don't forget to add me on. See you later!
