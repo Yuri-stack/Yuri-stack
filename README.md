@@ -1,4 +1,4 @@
-<img src="./assets/Banner_Github CyberGreen.png">
+<img src="./assets/Banner_Github Universe.png">
 
 <h2 align="center">Greetings everyone! 
 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
