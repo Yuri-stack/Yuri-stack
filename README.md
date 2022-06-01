@@ -1,7 +1,7 @@
 <img src="./assets/Banner_Github Universe.png">
 
 <h2 align="center">Greetings everyone! 
-<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+<!-- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px"> -->
 </h2>
 
 <h3 align="center">Programming teacher focused on learning and sharing knowledge for new Generations</h3>
