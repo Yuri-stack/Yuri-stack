@@ -46,7 +46,7 @@
 <b>Find Me</b>
 <br>
 <a href="https://www.linkedin.com/in/yuri-silva99/" target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-rgba(0, 33, 29, 1)?style=for-the-badge&logo=linkedin&logoColor=rgba(0, 125, 93, 1)"  target="_blank"></a>
-<a href="https://www.instagram.com/yuri_lumen/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-rgba(0, 33, 29, 1)?style=for-the-badge&logo=instagram&logoColor=rgba(0, 125, 93, 1)"  target="_blank"></a>
+<!--<a href="https://www.instagram.com/yuri_lumen/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-rgba(0, 33, 29, 1)?style=for-the-badge&logo=instagram&logoColor=rgba(0, 125, 93, 1)"  target="_blank"></a>-->
 
 <div align="center">
   <b></b>Thank you for reading this far and don't forget to add me on. See you later!
