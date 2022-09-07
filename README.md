@@ -1,8 +1,6 @@
 <img src="./assets/Banner_Github Universe.png">
 
-<h2 align="center">Greetings everyone! 
-<!-- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px"> -->
-</h2>
+<h2 align="center">Greetings everyone!</h2>
 
 <h3 align="center">Programming teacher focused on learning and sharing knowledge for new Generations</h3>
 
@@ -25,14 +23,6 @@
 <img src="https://img.shields.io/badge/-react-rgba(0, 33, 29, 1)?style=for-the-badge&logo=React&logoColor=rgba(0, 125, 93, 1)" target="_blank">
 </div>
 
-<div align="center">
-<h3>Teaching and Learning more</h3>
-<img src="https://img.shields.io/badge/-java-rgba(0, 33, 29, 1)?style=for-the-badge&logo=Java&logoColor=rgba(0, 125, 93, 1)" target="_blank">
-<img src="https://img.shields.io/badge/-Spring Boot-rgba(0, 33, 29, 1)?style=for-the-badge&logo=SpringBoot&logoColor=rgba(0, 125, 93, 1)" target="_blank">
-<img src="https://img.shields.io/badge/-Angular-rgba(0, 33, 29, 1)?style=for-the-badge&logo=Angular&logoColor=rgba(0, 125, 93, 1)" target="_blank">
-<img src="https://img.shields.io/badge/-Soft Skills-rgba(0, 33, 29, 1)?style=for-the-badge&logo=Soft&logoColor=rgba(0, 125, 93, 1)" target="_blank">
-</div>
-
 <br>
 
 <div align="center">
@@ -46,8 +36,7 @@
 <b>Find Me</b>
 <br>
 <a href="https://www.linkedin.com/in/yuri-silva99/" target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-rgba(0, 33, 29, 1)?style=for-the-badge&logo=linkedin&logoColor=rgba(0, 125, 93, 1)"  target="_blank"></a>
-<!--<a href="https://www.instagram.com/yuri_lumen/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-rgba(0, 33, 29, 1)?style=for-the-badge&logo=instagram&logoColor=rgba(0, 125, 93, 1)"  target="_blank"></a>-->
 
 <div align="center">
-  <b></b>Thank you for reading this far and don't forget to add me on. See you later!
+  Thank you for reading this far and don't forget to add me on. See you later!
 <div>
