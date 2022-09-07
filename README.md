@@ -11,11 +11,8 @@
 - 💬 Ask me about: <b>Animes, Docto Who, HP Lovecraft, Sherlock Holmes, Science Fiction Book</b> 📖
 - ⚡ Fun fact: <b>Eternal Student and Explorer of the World of Technology</b> 🗺️
 
-<details>
-  <summary><b>Technical Info</b></summary>
-
 <div align="center">
-<h3>My Technologies</h3>
+<h3>Teaching and Learning more</h3>
 <img src="https://img.shields.io/badge/-html-rgba(0, 33, 29, 1)?style=for-the-badge&logo=HTML5&logoColor=rgba(0, 125, 93, 1)" target="_blank">
 <img src="https://img.shields.io/badge/-css-rgba(0, 33, 29, 1)?style=for-the-badge&logo=CSS3&logoColor=rgba(0, 125, 93, 1)" target="_blank">
 <img src="https://img.shields.io/badge/-sass-rgba(0, 33, 29, 1)?style=for-the-badge&logo=SASS&logoColor=rgba(0, 125, 93, 1)" target="_blank">
@@ -23,14 +20,6 @@
 <img src="https://img.shields.io/badge/-nodejs-rgba(0, 33, 29, 1)?style=for-the-badge&logo=node.js&logoColor=rgba(0, 125, 93, 1)" target="_blank">
 <img src="https://img.shields.io/badge/-Typescript-rgba(0, 33, 29, 1)?style=for-the-badge&logo=typescript&logoColor=rgba(0, 125, 93, 1)" target="_blank">
 <img src="https://img.shields.io/badge/-react-rgba(0, 33, 29, 1)?style=for-the-badge&logo=React&logoColor=rgba(0, 125, 93, 1)" target="_blank">
-</div>
-
-<div align="center">
-<h3>Teaching and Learning more</h3>
-<img src="https://img.shields.io/badge/-java-rgba(0, 33, 29, 1)?style=for-the-badge&logo=Java&logoColor=rgba(0, 125, 93, 1)" target="_blank">
-<img src="https://img.shields.io/badge/-Spring Boot-rgba(0, 33, 29, 1)?style=for-the-badge&logo=SpringBoot&logoColor=rgba(0, 125, 93, 1)" target="_blank">
-<img src="https://img.shields.io/badge/-Angular-rgba(0, 33, 29, 1)?style=for-the-badge&logo=Angular&logoColor=rgba(0, 125, 93, 1)" target="_blank">
-<img src="https://img.shields.io/badge/-Soft Skills-rgba(0, 33, 29, 1)?style=for-the-badge&logo=Soft&logoColor=rgba(0, 125, 93, 1)" target="_blank">
 </div>
 
 <br>
@@ -41,7 +30,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-stack&layout=compact&langs_count=7&theme=gotham"/>
 </a>
 </div>
-</details>
 
 <b>Find Me</b>
 <br>
