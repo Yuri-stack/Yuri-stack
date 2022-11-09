@@ -6,7 +6,7 @@
 
 - 🌎 `<>Hello World!</>`😎
 - 🔭 I’m currently working on <b>Generation Brazil</b> 🌱
-- 💬 Ask me about: <b>Animes, Docto Who, HP Lovecraft, Sherlock Holmes, Science Fiction Book</b> 📖
+- 💬 Ask me about: <b>Animes, Doctor Who, HP Lovecraft, Sherlock Holmes, Science Fiction Book</b> 📖
 - ⚡ Fun fact: <b>Eternal Student and Explorer of the World of Technology</b> 🗺️
 
 <details>
