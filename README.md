@@ -5,7 +5,6 @@
 <h3 align="center">Programming teacher focused on learning and sharing knowledge for new Generations</h3>
 
 - 🌎 `<>Hello World!</>`😎
-- 🔭 I’m currently working on <b>Generation Brazil</b> 🌱
 - 💬 Ask me about: <b>Animes, Doctor Who, HP Lovecraft, Sherlock Holmes, Science Fiction Book</b> 📖
 - ⚡ Fun fact: <b>Eternal Student and Explorer of the World of Technology</b> 🗺️
 
