@@ -13,7 +13,6 @@
 
 <div align="center">
 <h3>My Technologies</h3>
-<h3>My Technologies</h3>
 <img src="https://img.shields.io/badge/-HTML-00211D?style=for-the-badge&logo=HTML5&logoColor=007D5D" target="_blank">
 <img src="https://img.shields.io/badge/-CSS-00211D?style=for-the-badge&logo=CSS3&logoColor=007D5D" target="_blank">
 <img src="https://img.shields.io/badge/-SASS-00211D?style=for-the-badge&logo=SASS&logoColor=007D5D" target="_blank">
@@ -24,13 +23,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <a href="https://github.com/Yuri-stack">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuri-stack&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-stack&layout=compact&langs_count=7&theme=gotham"/>
-  </a>
-</div>
 
 <b>Find Me</b>
 <br>
